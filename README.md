@@ -1,4 +1,4 @@
-# React Weather App 🌤️
+# React Weather App
 
 A sleek, glassmorphic weather app built with React. Search any city to get live weather conditions with a clean blue/cyan themed UI.
 
